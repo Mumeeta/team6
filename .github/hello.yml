@@ -10,6 +10,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: ./
-        with:
-        who to greet: 'react23k'
-        greeting: 'hello'
+        
